@@ -1,0 +1,430 @@
+@media (min-width: 1101px) and (max-width: 1400px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+.navbar-nav.mr-auto.navs li {
+	padding: 38px 0px 0;
+}
+.logo {
+	max-width: 163px;
+	width: 100%;
+	margin-left: -20px;
+	padding-top: 15px;
+}
+.play_text img {
+	padding-right: 6px;
+	width: 29px;
+}
+.play_text {
+	font-size: 12px;
+}
+.product_logo {
+	margin-top: 10px;
+	width: 100%;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+/* home-page */
+.play_text img {
+	padding-right: 6px;
+	width: 29px;
+}
+.play_text {
+	font-size: 12px;
+}
+
+.heading_text {
+	font-size: 30px;
+}
+.categories-bx h4 {
+	font-size: 14px;
+}
+.categories-bx img {
+	width: 28px;
+	margin-right: 12px;
+}
+.navbar-nav.mr-auto.navs li {
+	padding: 10px 0px 0;
+}
+#custom-search-input {
+	max-width: 300px;
+	width: 100%;
+}
+.mob_logo {
+	max-width: 120px;
+	width: 100%;
+	margin: 0 auto;
+	display: block !important;
+}
+.mob_icon{
+	display:block!important;
+}
+.logo {
+	
+	display: none;
+}
+.right_nav li a {
+	display: none;
+}
+.number {
+	
+	display: none;
+}
+.navbar-toggler {
+
+	padding-left: 0;
+}
+.student_view h4 {
+	font-size: 16px;
+}
+.cords {
+	top: 27%;
+	left: 12%;
+	width: 16%;
+}
+.nav-item.mob_icon i {
+	font-size: 15px;
+}
+/* home-page end */
+.navi {
+	margin: 10px 0;
+	/* position: absolute; */
+	/* top: 0; */
+}
+.btn.login_btnn, .sign_btn {
+	display: none;
+}
+.product_logo {
+	margin-top: 10px;
+	width: 100%;
+}
+/* home-page */
+/* beginer */
+.beginner-left-section::before {
+	left: -30px;
+	top: -62px;
+	height: 172px;
+	width: 178px;
+}
+.main_text1 {
+	font-size: 32px;
+}
+.beginner-course .col-md-7 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.beginner-course .col-md-5 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+/* beginer end*/
+}
+@media (min-width: 320px) and (max-width: 767px) {
+/* home-page */
+.product_logo {
+	width: 96%;
+	float:left;
+}
+
+.inner_box_section {
+	background-color: #edf2f5;
+	padding: 40px 20px;
+	margin-top: 0;
+	box-shadow: 0 0 0px rgba(0,0,0,0.13);
+	
+}
+.no_padding_mob {
+	padding-right: 0;
+	padding-left: 0;
+	max-width:100%;
+}
+.first_bx {
+	margin-top: 20px;
+}
+.inner_sec {
+	display: none;
+}
+.banner h2 {
+	max-width: 210px;
+	font-size: 24px;
+}
+.banner p {
+	font-size: 14px;
+	margin: 10px 0 25px;
+	line-height: 22px;
+	max-width: 300px;
+}
+.banner .search {
+	font-size: 15px;
+	padding: 14px 8px;
+}
+.btns-serch {
+	padding: 18px 10px;
+}
+.banner {
+	float: left;
+	padding: 55px 0px 35px;
+}
+.heading_text {
+	font-size: 23px;
+}
+.bx_section {
+	margin-top: 35px;
+}
+.categories-section .heading_text {
+	font-size: 21px;
+}
+.categories-section .col-md-3{	
+	padding-right: 29px;
+    padding-left: 30px;
+
+}
+.view_heading {
+	text-align: left;
+	font-size: 20px;
+}
+.students-viewing {
+	padding: 40px 0;
+}
+.testimonials .carousel-inner {
+	width: 100%;
+}
+.testimonials .carousel {
+	max-width: 340px;
+}
+.student_img {
+	max-width: 105px;
+	margin-top: -42px;
+	height: 105px;
+}
+.testimonials .carousel-control-prev {
+	left: -20px;
+}
+.carousel-control-next {
+	right: -14px;
+}
+.testimonials .carousel-item p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.testimonials .product-rating.float-rightt {
+	margin: 10px 0 7px;
+}
+.testimonials .carousel-item {
+	padding: 30px 30px 60px;
+	margin: 32px auto 0;
+}
+.testimonials h2 {
+	font-size: 18px;
+}
+.testimonials {
+	padding: 30px 0;
+}
+.navbar-nav.mr-auto.navs li {
+	padding: 6px 0px 0;
+}
+#custom-search-input {
+	max-width: 300px;
+	width: 100%;
+}
+.mob_logo {
+	max-width: 100px;
+	width: 100%;
+	margin: 0 auto;
+	display:block!important;
+}
+.mob_icon{
+	display:block!important;
+}
+.logo {
+	
+	display: none;
+}
+.right_nav li a {
+	display: none;
+}
+.number {
+	
+	display: none;
+}
+.mob_icon a {
+	/* margin-right: 11px; */
+	/* padding-left: 13px; */
+	padding-right: 3px;
+	border-radius: 5px;
+	color: #fff;
+	background: transparent;
+	padding-left: 5px;
+}
+.navbar-toggler {
+
+	padding-left: 0;
+}
+.student_view h4 {
+	font-size: 16px;
+}
+.cords {
+	top: 27%;
+	left: 12%;
+	width: 16%;
+}
+.nav-item.mob_icon i {
+	font-size: 15px;
+}
+/* home-page end */
+.navi {
+	margin: 10px 0;
+	/* position: absolute; */
+	/* top: 0; */
+}
+.btn.login_btnn, .sign_btn {
+	display: none;
+}
+footer .logo {
+	display: block;
+	max-width: 150px;
+}
+footer .padding-left {
+	padding-left: 14px;
+}
+footer .footer_bottom .pargh-left ,footer .footer_bottom .pargh-right {
+	width: 100%;
+	text-align: center;
+	margin:5px 0
+}
+.mob-footer{
+	display:block!important
+}
+.disp_mob{
+	display:none;
+}
+.footer_i i{
+	display:none;
+}
+.footer_content.footer_contents-tp {
+	margin-top: 20px;
+	float: none;
+	text-align: center;
+}
+.footer_content.footer_contents-tp li {
+	list-style: none;
+	display: inline-block;
+	width: 18%;
+	float: none;
+}	
+.language {
+	/* position: relative; */
+	position: absolute;
+	top: -224px;
+	right: 10px;
+	width: 37%;
+}
+.social_icon {
+	margin-top: -15px;
+	float: left;
+}
+.border-line01 {
+	float: left;
+	border-bottom: 1px dotted #858585;
+	/* height: 5px; */
+	background: transparent;
+	width: 100%;
+	margin-top: 29px;
+}
+.epc_logo {
+	max-width: 150px;
+	float:left;
+}
+/*******   beginner   *******/
+.beginner-left-section::before {
+	left: -11px;
+	height: 128px;
+	width: 136px;
+	top: -47px;
+}
+.main_text1 {
+	font-size: 30px;
+}
+.beginner-chapter .img-fluid {
+	max-width: 100%;
+	width: 100%;
+}
+.chapt-link li a {
+	font-size: 12px;
+	padding: 2px 4px;
+}
+.chapt-link li:nth-child(1) a {
+	margin-right: 7px;
+}
+.chapter_right .demi_text {
+	margin-top: 19px;
+}
+.beginner-chapter {
+	padding: 40px 0;
+}
+.beginner-chapter .margin-tp1 {
+	margin-top: 30px;
+}
+.beginner-course .student_name {
+	font-size: 13px;
+}
+.student_name span {
+	font-size: 13px;
+}
+
+}
+/*******   beginner   *******/
+@media (min-width: 340px) and (max-width: 360px) {
+	.nav-item.mob_icon.margn-leftt {
+	margin-right: 27px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 350px) {
+.beginner-course .student_name.name_text11 {
+	width: 100%;
+	float: left;
+}
+.student_name span {
+	font-size: 15px;
+}
+.beginner-course .student_name {
+	font-size: 15px;
+}
+.beginner-course .student_name {
+	width: 100%;
+}
+.student_name {
+	margin: 4px 0 8px;
+}
+}
+@media (min-width: 414px) and (max-width: 767px) {
+.mob_logo {
+	max-width: 118px;
+	width: 100%;
+	margin: 0 auto;
+	display: block !important;
+}
+.margn-leftt{
+	margin-left:27px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
